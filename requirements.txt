@@ -1,0 +1,4 @@
+Streamlit
+BeautifulSoup4
+request
+lxml
