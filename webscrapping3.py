@@ -42,7 +42,7 @@ def get_data(dept, designs):
 
 
 def main():
-    st.title('RUET Teachers\' Information')
+    st.title('RUET Teachers\' Informations')
     #department selection
     depts = ['EEE', 'CSE', 'ETE', 'ECE', 'CHEM', 'MATH', 'PHY', 'IPE', 'CHE', 'BECM', 'ME', 'URP', 'ARCHI', 'CE']
     dept = st.sidebar.selectbox('Select Department', depts).lower()
